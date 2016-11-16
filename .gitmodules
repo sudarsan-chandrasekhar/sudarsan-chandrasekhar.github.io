@@ -4,3 +4,6 @@
 [submodule "random_quote_machine"]
 	path = random_quote_machine
 	url = https://github.com/sudarsan-chandrasekhar/random_quote_machine.git
+[submodule "local-weather-app"]
+	path = local-weather-app
+	url = https://github.com/sudarsan-chandrasekhar/local-weather-app.git
