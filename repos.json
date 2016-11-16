@@ -1,0 +1,55 @@
+{
+	"repoList": [
+		{
+			"altText": "A screenshot of a Random Quote Machine Website created by Sudarsan Chandrasekhar",
+			"created": "October 22, 2016",
+			"description": "A website that provides random quotes from the <a href=\"http://forismatic.com/en/api/\">Forismatic API</a>.",
+			"id": "repoModal1",
+			"langs": [
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"jQuery",
+				"Bootstrap CSS"
+			],
+			"name": "Random Quote Machine",
+			"screenshot": "https://sudarsan-chandrasekhar.github.io/random_quote_machine/Images/random_quote.png",
+			"url": "http://sudarsan-chandrasekhar.github.io/random_quote_machine"
+		},
+		
+		{
+			"altText": "A screenshot of a website that uses the Twitch.TV API built by Sudarsan Chandrasekhar",
+			"created": "November 22, 2015",
+			"description": "An example of using the Twitch.tv API to get information about specific channels.",
+			"id": "repoModal2",
+			"langs": [
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"jQuery"
+			],
+			"name": "Twitch.tv API Project",
+			"screenshot": "https://sudarsan-chandrasekhar.github.io/Twitch/TwitchTv.png",
+			"url": "https://sudarsan-chandrasekhar.github.io/twitchTV"
+		},
+		
+		{
+			"altText": "A screenshot of a local weather Website built by Sudarsan Chandrasekhar",
+			"created": "November 1, 2016",
+			"description": "An example of using the Weather Underground API to get current weather conditions for any city.",
+			"id": "repoModa3",
+			"langs": [
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"jQuery",
+				"jQuery-UI",
+				"Bootstrap CSS"
+			],
+			"name": "Local Weather Any City",
+			"screenshot": "https://sudarsan-chandrasekhar.github.io/local-weather-app/img/weather.png",
+			"url": "https://sudarsan-chandrasekhar.github.io/local-weather-app"
+		}
+		
+	]
+}
